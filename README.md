@@ -105,3 +105,18 @@ RF10: Como médico(a) da unidade de origem, desejo estabelecer procedimentos a s
     * O sistema envia notificações automáticas a Mariana durante a transferência.
     * Mariana recebe atualizações sobre o status e a localização do filho em tempo real.
     * Mariana é mantida informada, reduzindo sua ansiedade e melhorando a comunicação com a equipe médica.
+
+## Diagramas de Casos de Uso
+ 
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/img-casos-de-uso/UC01.png)
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/img-casos-de-uso/UC02.png)
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/img-casos-de-uso/UC03.png)
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/img-casos-de-uso/UC04.png)
+
+## Wireframes
+
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/imgs-wireframes/Tela-de-Login.svg)
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/imgs-wireframes/Dashboard-Painel.svg)
+![](https://github.com/Equipe-Dourada/ihc-design-de-experiencia/blob/main/imgs-wireframes/Tela-Detalhes.svg)
+
+#
