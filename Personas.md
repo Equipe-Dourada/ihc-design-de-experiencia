@@ -2,10 +2,10 @@
 
 |1. Médicos ( Origem, regulador e destino)|
 |:------------- |
-|2. Enfermeiro Coordenador
-3. Equipe de Transporte
-4. Assistente Administrativo
-5. Familiar do Paciente |
+|2. Enfermeiro Coordenador|
+|3. Equipe de Transporte|
+|4. Assistente Administrativo|
+|5. Familiar do Paciente |
 
 ## 1. Médico: 
 * Nome: Túlio Oliveira
