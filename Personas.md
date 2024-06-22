@@ -38,7 +38,7 @@ Obstáculos: Muitas vezes as informações do paciente são imprecisas antes da 
 * Experiência: 5 anos de experiência em administração hospitalar
 * Objetivos: Gerenciamento da documentação relacionada a transferência dos pacientes. Facilitar comunicação entre departamentos administrativos e médicos.
 * Obstáculos: Não há integração entre os sistemas administrativos, médicos e saúde. 
-* Necessidades: Precisa-se de um local para armazenar documentação e também a integração com os outros departamentos. 
+* Necessidades: Precisa-se de um local para armazenar documentação e também a integração com os outros departamentos 
 
 ## 5. Familiar do Paciente
 * Nome: Mariana Lopes
