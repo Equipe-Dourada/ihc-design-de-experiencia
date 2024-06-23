@@ -1,14 +1,14 @@
 ## Personas:
 
-|1. Médicos ( Origem, regulador e destino)|
+|1. Médicos (Origem, regulador e destino)|
 |:------------- |
 |2. Enfermeiro Coordenador|
 |3. Equipe de Transporte|
 |4. Assistente Administrativo|
-|5. Familiar do Paciente |
+|5. Familiar do Paciente|
 
 ## 1. Médico: 
-* Nome: Túlio Oliveira
+* Nome: Túlio Freudiano
 * Especialidade: Psiquiatra
 * Idade: 32 anos
 * Experiência: 5 anos na área da psiquiatria.
