@@ -19,7 +19,7 @@
 ## 2. Enfermeiro Coordenador:
 * Nome: Lídia Oliveira
 * Idade: 42 anos
-*Experiência: 15 anos de experiência em enfermagem e 6 na coordenação.
+* Experiência: 15 anos de experiência em enfermagem e 6 na coordenação.
 * Objetivos: Precisa coordenar a logística de transporte de pacientes entre unidades diariamente e assegurar que tudo ocorra da melhor forma possível. Necessita ter uma comunicação mais eficiente entre as equipes de enfermagem das unidades de origem e destino.
 * Obstáculo: A comunicação não é clara sobre as necessidades específicas dos pacientes durante o trajeto.
 * Necessita: Monitorar o status durante a transferência. 
@@ -43,6 +43,8 @@ Obstáculos: Muitas vezes as informações do paciente são imprecisas antes da 
 ## 5. Familiar do Paciente
 * Nome: Mariana Lopes
 * Idade: 55 anos
+* Objetivos: Senhora Marina acompanha sua mãe, vítima de AVC, oferecendo suporte emocional, buscando atendimento de qualidade e informações atualizadas e detalhadas referentes a evolução de seu quadro. A paciente necessita de transferência para um hospital que possibilite melhor tratamento.
+* Obstáculos:  Lidar com a espera e informações limitadas.
 * Necessidades: Obter informações atualizadas do estado de saúde do paciente ao qual está acompanhando. 
 
 #
