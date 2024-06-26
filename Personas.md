@@ -42,7 +42,7 @@ Obstáculos: Muitas vezes as informações do paciente são imprecisas antes da 
 
 ## 5. Familiar do Paciente
 * Nome: Mariana Lopes
-* Idade: 55 anos
+* Idade: 53 anos
 * Objetivos: Senhora Marina acompanha sua mãe, vítima de AVC, oferecendo suporte emocional, buscando atendimento de qualidade e informações atualizadas e detalhadas referentes a evolução de seu quadro. A paciente necessita de transferência para um hospital que possibilite melhor tratamento.
 * Obstáculos:  Lidar com a espera e informações limitadas.
 * Necessidades: Obter informações atualizadas do estado de saúde do paciente ao qual está acompanhando. 
