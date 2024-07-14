@@ -16,7 +16,7 @@
 [acesse aqui ao link para o maze do nosso protótipo](https://t.maze.co/252525337)
 
 ## Protótipo em alta fidelidade:
-[acesse aqui nosso protótipo final](https://t.maze.co/252525337](https://www.figma.com/proto/skO8ZpXGN68utHGWjGe0Yf/STP?node-id=58-5&t=B4H9n3wm3hLAM3ms-0&scaling=scale-down&content-scaling=fixed&page-id=58%3A2&starting-point-node-id=58%3A5))
+[acesse aqui nosso protótipo final](https://www.figma.com/proto/skO8ZpXGN68utHGWjGe0Yf/STP?node-id=58-5&t=GgPjAeHt2cwHHfrU-1&scaling=scale-down&content-scaling=fixed&page-id=58%3A2&starting-point-node-id=58%3A5)
 
 #
 
