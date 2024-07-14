@@ -10,7 +10,7 @@
 [acesse aqui ao formulário](https://docs.google.com/forms/d/1Y0FWTUZZ73TUw_5C73-fbKnFrmx2TLr95rFG3AH3yuU/edit#responses)
 
 ### Respostas:
-[acesse aqui ao formulário](https://docs.google.com/spreadsheets/d/17WCBqiD1MWQAW_-WNm9_J3YJxs1TY-O2QItTY3s36sM/edit?usp=sharing)
+[acesse aqui ao gráfico das respostas que tivemos](https://docs.google.com/spreadsheets/d/17WCBqiD1MWQAW_-WNm9_J3YJxs1TY-O2QItTY3s36sM/edit?usp=sharing)
 
 ## Maze:
 [acesse aqui ao link para o maze do nosso protótipo](https://t.maze.co/252525337)
